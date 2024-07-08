@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\GondorMatyasLista\bin\Debug\GondorMatyasLista.exe.config
+C:\Users\user\Desktop\GondorMatyasLista\bin\Debug\GondorMatyasLista.exe
+C:\Users\user\Desktop\GondorMatyasLista\bin\Debug\GondorMatyasLista.pdb
+C:\Users\user\Desktop\GondorMatyasLista\obj\Debug\GondorMatyasLista.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GondorMatyasLista\obj\Debug\GondorMatyasLista.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GondorMatyasLista\obj\Debug\GondorMatyasLista.exe
+C:\Users\user\Desktop\GondorMatyasLista\obj\Debug\GondorMatyasLista.pdb
